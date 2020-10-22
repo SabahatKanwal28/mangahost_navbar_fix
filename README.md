@@ -1,4 +1,4 @@
-# Mangahost_navbar_fix
+﻿# Mangahost_navbar_fix
 
 É feito para o site de leitura de mangas mangahost2.com (sua url muda com muita frequencia).
 
@@ -31,3 +31,5 @@ Depois de seguir estes passos o plugin está pronto para uso, mais informações
 Se encontrou um problema, abra uma issue descrevendo o problema em https://github.com/aquiles23/mangahost_navbar_fix/issues
 
 Quer contribuir, escolha uma issue para trabalhar (ou crie uma) de acordo com o [guia de contribuição](./CONTRIBUTING.md), depois faça um pull request.
+
+# i have added a index. html file to view it on browser. 
